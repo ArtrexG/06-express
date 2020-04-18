@@ -1,0 +1,16 @@
+footer{
+    background-color: black;
+    color: whitesmoke;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    height: 7%;
+    text-align: center;
+
+}
+.containers{
+    max-height: 10px;
+    margin-left: 5em;
+    margin-right: 5em;
+    margin-top:5em;
+}
